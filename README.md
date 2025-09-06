@@ -10,9 +10,24 @@ This project provides an end-to-end solution for detecting diseases in tea leave
 - Data splitting, augmentation, and loading with PyTorch.
 - Training with class weights, metrics (accuracy, precision, recall, F1-score), and visualizations.
 - Web app for uploading images and predicting diseases, accessible at [http://localhost:8501](http://localhost:8501).
+- 
 
 ## Installation
 To run the notebook or the web app, install the required dependencies:
 
 ```bash
 pip install torch torchvision timm pytorch-lightning transformers split-folders matplotlib seaborn scikit-learn streamlit
+```
+## Deploying the Web App
+```bash
+streamlit run app.py
+```
+
+## License
+Licensed under the MIT License. See the LICENSE file for details.
+
+
+## Acknowledgments
+DeiT model from the TIMM library.
+TeaLeafBD dataset from Kaggle.
+Built with PyTorch, PyTorch Lightning, and Streamlit.
