@@ -9,7 +9,9 @@ This project provides an end-to-end solution for detecting diseases in tea leave
 - Fine-tuned pre-trained DeiT model for multi-class classification (7 disease classes).
 - Data splitting, augmentation, and loading with PyTorch.
 - Training with class weights, metrics (accuracy, precision, recall, F1-score), and visualizations.
-- Web app for uploading images and predicting diseases, accessible at [http://localhost:8501](http://localhost:8501).
+- Web app for uploading images and predicting diseases, accessible at [http://192.168.1.2:8501
+](http://192.168.1.2:8501
+).
 - 
 
 ## Installation
