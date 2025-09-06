@@ -1,0 +1,10 @@
+torch 
+torchvision 
+timm 
+pytorch-lightning 
+transformers
+split-folders 
+matplotlib 
+seaborn 
+scikit-learn 
+streamlit
