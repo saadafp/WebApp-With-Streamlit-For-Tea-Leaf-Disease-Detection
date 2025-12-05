@@ -3,7 +3,8 @@ End-To-End Tea Leaf Disease Detection WebApp With Streamlit
 
 
 ## Overview
-This project provides an end-to-end solution for detecting diseases in tea leaves using a pre-trained DeiT (Data-efficient Image Transformers) model. The notebook includes data preparation, model training, evaluation, and deployment as a web application using Streamlit. The dataset used is the TeaLeafBD dataset from [kaggle](https://www.kaggle.com/datasets/bmshahriaalam/tealeafbd-tea-leaf-disease-detection)
+This project provides an end-to-end solution for detecting diseases in tea leaves using a pre-trained DeiT (Data-efficient Image Transformers) model. The notebook includes data preparation, model training, evaluation, and deployment as a web application using Streamlit. The dataset used is the TeaLeafBD dataset from [kaggle](https://www.kaggle.com/datasets/bmshahriaalam/tealeafbd-tea-leaf-disease-detection),
+
 https://creativecommons.org/licenses/by-sa/4.0/, containing images of tea leaves affected by various diseases.
 
 ### Key Features
