@@ -24,7 +24,8 @@ streamlit run app.py
 ```
 
 ## License
-https://creativecommons.org/licenses/by-sa/4.0/
+Dataset License: 
+This project uses the "Tea Leaf Disease Dataset" from Kaggle, which is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 
 ## Acknowledgments
